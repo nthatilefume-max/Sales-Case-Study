@@ -4,4 +4,3 @@ This project is an end-to-end sales analytics solution developed using **Excel, 
 
 The final output is an interactive Power BI dashboard that presents key performance indicators (KPIs), sales trends, profitability analysis, and dynamic filters for deeper exploration of the data. This project demonstrates my skills in **data cleaning, SQL querying, data transformation, business intelligence, and dashboard development**, showcasing my ability to turn raw data into meaningful insights and actionable business recommendations.
 
-If this is for your GitHub portfolio, this version is concise, professional, and recruiter-friendly.
